@@ -1,0 +1,15 @@
+D:\DotNet\CustomerOrderApp\bin\Debug\net6.0\CustomerOrderApp.exe
+D:\DotNet\CustomerOrderApp\bin\Debug\net6.0\CustomerOrderApp.deps.json
+D:\DotNet\CustomerOrderApp\bin\Debug\net6.0\CustomerOrderApp.runtimeconfig.json
+D:\DotNet\CustomerOrderApp\bin\Debug\net6.0\CustomerOrderApp.dll
+D:\DotNet\CustomerOrderApp\bin\Debug\net6.0\CustomerOrderApp.pdb
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.csproj.AssemblyReference.cache
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.AssemblyInfoInputs.cache
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.AssemblyInfo.cs
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.csproj.CoreCompileInputs.cache
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.dll
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\refint\CustomerOrderApp.dll
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.pdb
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\CustomerOrderApp.genruntimeconfig.cache
+D:\DotNet\CustomerOrderApp\obj\Debug\net6.0\ref\CustomerOrderApp.dll
